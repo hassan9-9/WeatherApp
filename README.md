@@ -1,4 +1,4 @@
-# 🌤 WeatherAPI Dashboard 🔥🔥
+# 🌤 WeatherApp Dashboard 🔥🔥
 
 A modern weather dashboard built with **TypeScript**, **TanStack Query**, **Shadcn/UI**, **Recharts**, and **Tailwind CSS** — delivering real-time weather data in a fast, responsive, and beautiful interface.
 
