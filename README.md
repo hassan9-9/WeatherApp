@@ -1,8 +1,4 @@
-# Tanstack Query, Shadcn, Recharts, Tailwind, Typescript🔥🔥
-
-# 🌤 WeatherAPI Dashboard
-
-# 🌤 WeatherAPI Dashboard
+# 🌤 WeatherAPI Dashboard 🔥🔥
 
 A modern weather dashboard built with **TypeScript**, **TanStack Query**, **Shadcn/UI**, **Recharts**, and **Tailwind CSS** — delivering real-time weather data in a fast, responsive, and beautiful interface.
 
@@ -33,8 +29,8 @@ A modern weather dashboard built with **TypeScript**, **TanStack Query**, **Shad
 
 ## 📸 Screenshots
 
-| Dashboard View                                | Chart Example                         |
-| --------------------------------------------- | ------------------------------------- |
-| ![Dashboard Screenshot](assets/dashboard.png) | ![Chart Screenshot](assets/chart.png) |
+| Dashboard View                                        |
+| ----------------------------------------------------- |
+| ![Dashboard Screenshot](/public/assets/Dashboard.png) |
 
 ---
